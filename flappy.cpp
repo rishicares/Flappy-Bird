@@ -66,13 +66,13 @@ public:
     {
         width = 80;
         pole_x = 600, pole_y = rand()%600;
-        gap = random(150,300);
+        gap = random(150,250);
     }
     void get_pole_x_y()
     {
         width = 80;
         pole_x = 600, pole_y = rand()%550;
-        gap = random(150,300);
+        gap = random(150,250);
     }
     void draw()
     {
