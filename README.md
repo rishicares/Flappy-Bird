@@ -6,4 +6,4 @@ The code has a Ball, Pole, and Player class. The Ball class handles the movement
 
 The menu function displays a menu where the user can start the game, view the previous score, or exit the game.
 
-Note: The graphics.h library is required to run this program and may not run on your systems.
+📝 Note: The graphics.h library is required to run this program and may not run on your systems.
